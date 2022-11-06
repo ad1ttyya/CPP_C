@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 //Calculating Gross Salary
 void main()
 {
@@ -10,5 +9,4 @@ void main()
     H=Salary*0.2;
     Gross=Salary+D+H;
     printf("\nGross Salary is %d",Gross);
-
 }
