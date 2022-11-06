@@ -1,7 +1,8 @@
 #include<stdio.h>
 void main()
 {
-    int g;
-    g=0/2;
-    printf("%d",g);
+   int initial_amount, no_of_10,no_of_50,no_of_100;
+   printf("Enter Amount ");
+   scanf("%d",initial_amount);
+   
 }

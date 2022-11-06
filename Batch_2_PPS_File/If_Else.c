@@ -24,7 +24,4 @@ void main()
     else 
     printf("E\n");
 }
-for (size_t i = 0; i < count; i++)
-{
-    /* code */
-}
+
